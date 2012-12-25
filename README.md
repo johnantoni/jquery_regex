@@ -14,9 +14,10 @@ And then execute:
 
     $ bundle
 
-Or install it yourself as:
+Include assets:
 
-    $ gem install jquery_regex
+    // In application.js
+    //= require jquery_regex
 
 ## Usage
 
