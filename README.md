@@ -6,6 +6,10 @@ http://james.padolsey.com/javascript/regex-selector-for-jquery/
 
 ## Installation
 
+Depends on:
+
+    gem 'jquery-rails'
+
 Add this line to your application's Gemfile:
 
     gem 'jquery_regex'
