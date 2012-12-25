@@ -10,7 +10,7 @@ Gem::Specification.new do |gem|
   gem.email         = ["john@johnantoni.com"]
   gem.description   = %q{jquery regex selector for rails}
   gem.summary       = %q{see http://james.padolsey.com/javascript/regex-selector-for-jquery/}
-  gem.homepage      = ""
+  gem.homepage      = "https://github.com/johnantoni/jquery_regex"
 
   gem.files = Dir["{lib,vendor}/**/*"] + ["MIT-LICENSE", "README.md"]
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }
