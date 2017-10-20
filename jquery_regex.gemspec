@@ -18,6 +18,6 @@ Gem::Specification.new do |gem|
   gem.require_paths = ["lib"]
 
   gem.add_development_dependency "rake"
-  gem.add_dependency "railties", "~> 3.1"
+  gem.add_dependency "railties"
   gem.add_dependency "jquery-rails"
 end
